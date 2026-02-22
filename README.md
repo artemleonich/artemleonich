@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hey there! I'm Artem 👋
+# Hey there! I'm Artem Leonov 👋
 
 ### Python Backend Developer & iOS Engineer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=artemleonich&color=blue&style=flat-square)](https://github.com/artemleonich)
+
+[🇬🇧 English](#-about-me) | [🇷🇺 Русский](#-обо-мне)
 
 </div>
 
@@ -12,7 +14,7 @@
 
 ## 🚀 About Me
 
-🐍 Building backend services with **Python** & **Django**
+👨‍💻 Building backend services with **Python** & **Django**
 
 📱 Crafting iOS apps with **Swift** & **UIKit**
 
@@ -20,32 +22,36 @@
 
 🤖 Love building **Telegram bots** & web scrapers
 
-🎓 Yandex Practicum graduate (Backend Python & iOS)
+🎉 Yandex Practicum graduate (Backend Python & iOS)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### Backend & Frameworks
+**Backend & Frameworks**
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Databases & Tools
+**Databases & Tools**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### iOS Development
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+**iOS Development**
+
+![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 </div>
@@ -88,5 +94,46 @@
 *Open to collaboration on Python backend, fintech tools & iOS projects*
 
 ⭐ **If you find my projects useful, consider giving them a star!**
+
+</div>
+
+---
+
+## 🇷🇺 Обо мне
+
+👨‍💻 Разрабатываю бэкенд-сервисы на **Python** и **Django**
+
+📱 Создаю iOS-приложения на **Swift** и **UIKit**
+
+📊 Увлечён **финтехом**, рыночными данными и автоматизацией
+
+🤖 Люблю создавать **Telegram-боты** и веб-скрейперы
+
+🎉 Выпускник Яндекс Практикума (Бэкенд Python и iOS)
+
+---
+
+### 📌 Избранные проекты
+
+| Проект | Описание | Технологии |
+|---------|-------------|------|
+| [**Moex**](https://github.com/artemleonich/Moex) | Инструменты для работы с данными Московской биржи | Python |
+| [**Parser-prices**](https://github.com/artemleonich/Parser-prices) | Мониторинг и парсинг цен | Python |
+| [**Moex-key-rate**](https://github.com/artemleonich/Moex-key-rate) | Отслеживание ключевой ставки МОСБиржи | Python |
+| [**Recorder**](https://github.com/artemleonich/Recorder) | iOS-приложение для записи аудио | Swift |
+| [**yatube_project**](https://github.com/artemleonich/yatube_project) | Блог-платформа и социальная сеть | Python, Django |
+| [**homework_bot**](https://github.com/artemleonich/homework_bot) | Telegram-бот для интеграции с API | Python |
+| [**MovieQuiz-ios**](https://github.com/artemleonich/MovieQuiz-ios) | Викторина по фильмам для iOS | Swift |
+| [**Counter**](https://github.com/artemleonich/Counter) | Простой счётчик для iOS | Swift |
+
+---
+
+<div align="center">
+
+### 🤝 Давайте сотрудничать
+
+*Открыт к сотрудничеству в области Python-бэкенда, финтех-инструментов и iOS-проектов*
+
+⭐ **Если мои проекты показались вам полезными, поставьте звёздочку!**
 
 </div>
