@@ -22,7 +22,7 @@
 
 🤖 Love building **Telegram bots** & web scrapers
 
-🎉 Yandex Practicum graduate (Backend Python & iOS)
+🎉 Yandex Practicum student (Backend Python & iOS)
 
 ---
 
@@ -109,7 +109,7 @@
 
 🤖 Люблю создавать **Telegram-боты** и веб-скрейперы
 
-🎉 Выпускник Яндекс Практикума (Бэкенд Python и iOS)
+🎉 Ученик Яндекс Практикума (Бэкенд Python и iOS)
 
 ---
 
