@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="assets/identity.svg" width="470" alt="Artem Leonov" /><br />
-  <img src="assets/focus.svg" width="460" alt="Python backends · Swift apps · local AI and automation" />
+  <a href="assets/light/identity.svg#gh-light-mode-only"><img src="assets/light/identity.svg" width="470" alt="Artem Leonov" /></a><a href="assets/identity.svg#gh-dark-mode-only"><img src="assets/identity.svg" width="470" alt="Artem Leonov" /></a><br />
+  <a href="assets/light/focus.svg#gh-light-mode-only"><img src="assets/light/focus.svg" width="460" alt="Python backends · Swift apps · local AI and automation" /></a><a href="assets/focus.svg#gh-dark-mode-only"><img src="assets/focus.svg" width="460" alt="Python backends · Swift apps · local AI and automation" /></a>
 </p>
 
 I'm Artem. I build Python backends and iOS apps, with projects in document AI, automation, and market research.
@@ -8,26 +8,26 @@ I'm Artem. I build Python backends and iOS apps, with projects in document AI, a
 ## Selected projects
 
 <p>
-  <a href="https://github.com/artemleonich/docrag"><img src="assets/projects/docrag.svg" width="28" height="28" alt="DocRAG" /></a>&nbsp;
+  <a href="https://github.com/artemleonich/docrag#gh-light-mode-only"><img src="assets/light/projects/docrag.svg" width="28" height="28" alt="DocRAG" /></a><a href="https://github.com/artemleonich/docrag#gh-dark-mode-only"><img src="assets/projects/docrag.svg" width="28" height="28" alt="DocRAG" /></a>&nbsp;
   <strong><a href="https://github.com/artemleonich/docrag">DocRAG</a></strong> — local PDF answers with source citations and Word / PowerPoint drafts. <code>FastAPI</code>
 </p>
 <p>
-  <a href="https://github.com/artemleonich/Recorder"><img src="assets/projects/recorder.svg" width="28" height="28" alt="Recorder" /></a>&nbsp;
+  <a href="https://github.com/artemleonich/Recorder#gh-light-mode-only"><img src="assets/light/projects/recorder.svg" width="28" height="28" alt="Recorder" /></a><a href="https://github.com/artemleonich/Recorder#gh-dark-mode-only"><img src="assets/projects/recorder.svg" width="28" height="28" alt="Recorder" /></a>&nbsp;
   <strong><a href="https://github.com/artemleonich/Recorder">Recorder</a></strong> — iOS voice notes with on-device transcription and text search. <code>WhisperKit</code>
 </p>
 <p>
-  <a href="https://github.com/artemleonich/Parser-prices"><img src="assets/projects/priceradar.svg" width="28" height="28" alt="PriceRadar" /></a>&nbsp;
+  <a href="https://github.com/artemleonich/Parser-prices#gh-light-mode-only"><img src="assets/light/projects/priceradar.svg" width="28" height="28" alt="PriceRadar" /></a><a href="https://github.com/artemleonich/Parser-prices#gh-dark-mode-only"><img src="assets/projects/priceradar.svg" width="28" height="28" alt="PriceRadar" /></a>&nbsp;
   <strong><a href="https://github.com/artemleonich/Parser-prices">PriceRadar</a></strong> — marketplace price monitoring, Telegram alerts and price history. <code>MVP</code>
 </p>
 <p>
-  <a href="https://github.com/artemleonich/Moex"><img src="assets/projects/moex.svg" width="28" height="28" alt="MOEX research" /></a>&nbsp;
+  <a href="https://github.com/artemleonich/Moex#gh-light-mode-only"><img src="assets/light/projects/moex.svg" width="28" height="28" alt="MOEX research" /></a><a href="https://github.com/artemleonich/Moex#gh-dark-mode-only"><img src="assets/projects/moex.svg" width="28" height="28" alt="MOEX research" /></a>&nbsp;
   <strong><a href="https://github.com/artemleonich/Moex">MOEX</a></strong> — IslandForest, walk-forward evaluation and portfolio backtests. <code>Research</code>
 </p>
 
 ### Tools in my projects
 
 <p>
-  <img src="assets/icons/python.svg" width="32" height="32" alt="Python" title="Python" />&nbsp; <img src="assets/icons/swift.svg" width="32" height="32" alt="Swift" title="Swift" />&nbsp; <img src="assets/icons/fastapi.svg" width="32" height="32" alt="FastAPI" title="FastAPI" />&nbsp; <img src="assets/icons/django.svg" width="32" height="32" alt="Django" title="Django" />&nbsp; <img src="assets/icons/react.svg" width="32" height="32" alt="React" title="React" />&nbsp; <img src="assets/icons/postgresql.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" />&nbsp; <img src="assets/icons/docker.svg" width="32" height="32" alt="Docker" title="Docker" />&nbsp; <img src="assets/icons/git.svg" width="32" height="32" alt="Git" title="Git" />
+  <a href="assets/light/icons/python.svg#gh-light-mode-only"><img src="assets/light/icons/python.svg" width="32" height="32" alt="Python" title="Python" /></a><a href="assets/icons/python.svg#gh-dark-mode-only"><img src="assets/icons/python.svg" width="32" height="32" alt="Python" title="Python" /></a>&nbsp; <a href="assets/light/icons/swift.svg#gh-light-mode-only"><img src="assets/light/icons/swift.svg" width="32" height="32" alt="Swift" title="Swift" /></a><a href="assets/icons/swift.svg#gh-dark-mode-only"><img src="assets/icons/swift.svg" width="32" height="32" alt="Swift" title="Swift" /></a>&nbsp; <a href="assets/light/icons/fastapi.svg#gh-light-mode-only"><img src="assets/light/icons/fastapi.svg" width="32" height="32" alt="FastAPI" title="FastAPI" /></a><a href="assets/icons/fastapi.svg#gh-dark-mode-only"><img src="assets/icons/fastapi.svg" width="32" height="32" alt="FastAPI" title="FastAPI" /></a>&nbsp; <a href="assets/light/icons/django.svg#gh-light-mode-only"><img src="assets/light/icons/django.svg" width="32" height="32" alt="Django" title="Django" /></a><a href="assets/icons/django.svg#gh-dark-mode-only"><img src="assets/icons/django.svg" width="32" height="32" alt="Django" title="Django" /></a>&nbsp; <a href="assets/light/icons/react.svg#gh-light-mode-only"><img src="assets/light/icons/react.svg" width="32" height="32" alt="React" title="React" /></a><a href="assets/icons/react.svg#gh-dark-mode-only"><img src="assets/icons/react.svg" width="32" height="32" alt="React" title="React" /></a>&nbsp; <a href="assets/light/icons/postgresql.svg#gh-light-mode-only"><img src="assets/light/icons/postgresql.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" /></a><a href="assets/icons/postgresql.svg#gh-dark-mode-only"><img src="assets/icons/postgresql.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" /></a>&nbsp; <a href="assets/light/icons/docker.svg#gh-light-mode-only"><img src="assets/light/icons/docker.svg" width="32" height="32" alt="Docker" title="Docker" /></a><a href="assets/icons/docker.svg#gh-dark-mode-only"><img src="assets/icons/docker.svg" width="32" height="32" alt="Docker" title="Docker" /></a>&nbsp; <a href="assets/light/icons/git.svg#gh-light-mode-only"><img src="assets/light/icons/git.svg" width="32" height="32" alt="Git" title="Git" /></a><a href="assets/icons/git.svg#gh-dark-mode-only"><img src="assets/icons/git.svg" width="32" height="32" alt="Git" title="Git" /></a>
 </p>
 
 <details>
