@@ -42,7 +42,7 @@ I build **Python backends**, **iOS apps**, and tools that turn documents and dat
 <a href="https://github.com/artemleonich/Moex-key-rate">Explore Rate Research →</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/artemleonich/yatube_project"><img src="assets/yatube_project.svg" width="100%" alt="Yatube — a Django social blogging project" /></a>
+<a href="https://github.com/artemleonich/yatube_project"><img src="assets/yatube_project.svg?v=2" width="100%" alt="Yatube — a Django social blogging project" /></a>
 <p>A learning project in Django: posts, group feeds, comments, subscriptions, and tests.</p>
 <a href="https://github.com/artemleonich/yatube_project">Explore Yatube →</a>
 </td>
