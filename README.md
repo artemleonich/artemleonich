@@ -1,150 +1,80 @@
-<div align="center">
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Artem Leonov — Python, Swift, AI and market research" />
+</p>
 
-# Hey there! I'm Artem Leonov 👋
+# Hi, I'm Artem 👋
 
-### Python Backend Developer & iOS Engineer
+I build **Python backends**, **iOS apps**, and tools that turn documents and data into something useful. My projects explore local AI, automation, and financial market research.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=artemleonich&color=blue&style=flat-square)](https://github.com/artemleonich)
+[Selected projects](#selected-projects) · [Toolbox](#toolbox) · [More to explore](#more-to-explore) · [По-русски](#по-русски)
 
-[🇬🇧 English](#-about-me) | [🇷🇺 Русский](#-обо-мне)
+## Selected projects
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/artemleonich/docrag"><img src="assets/docrag.svg" width="100%" alt="DocRAG — local document search and generation" /></a>
+<p>Local PDF assistant with hybrid retrieval, source citations, and Word / PowerPoint generation.</p>
+<a href="https://github.com/artemleonich/docrag">Explore DocRAG →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/artemleonich/Recorder"><img src="assets/Recorder.svg" width="100%" alt="Recorder — iOS voice notes and transcription" /></a>
+<p>Voice notes with on-device WhisperKit transcription, audio import, search, and editing.</p>
+<a href="https://github.com/artemleonich/Recorder">Explore Recorder →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/artemleonich/Parser-prices"><img src="assets/Parser-prices.svg" width="100%" alt="PriceRadar — price monitoring and Telegram alerts" /></a>
+<p>A price-monitoring MVP with marketplace parsers, background jobs, and Telegram notifications.</p>
+<a href="https://github.com/artemleonich/Parser-prices">Explore PriceRadar →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/artemleonich/Moex"><img src="assets/Moex.svg" width="100%" alt="MOEX Research — machine-learning ensembles and backtests" /></a>
+<p>IslandForest ensembles, walk-forward evaluation, and portfolio backtests on MOEX data.</p>
+<a href="https://github.com/artemleonich/Moex">Explore MOEX Research →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/artemleonich/Moex-key-rate"><img src="assets/Moex-key-rate.svg" width="100%" alt="Rate Research — CBR key rate and Russian equities" /></a>
+<p>Time-series research into the CBR key rate and Russian equities, with strategy experiments.</p>
+<a href="https://github.com/artemleonich/Moex-key-rate">Explore Rate Research →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/artemleonich/yatube_project"><img src="assets/yatube_project.svg" width="100%" alt="Yatube — a Django social blogging project" /></a>
+<p>A learning project in Django: posts, group feeds, comments, subscriptions, and tests.</p>
+<a href="https://github.com/artemleonich/yatube_project">Explore Yatube →</a>
+</td>
+</tr>
+</table>
 
----
+## Toolbox
 
-## 🚀 About Me
+| Area | Technologies used in my projects |
+| :--- | :--- |
+| Backend & automation | Python · FastAPI · Django · Celery · Telegram APIs |
+| Documents & local AI | Qdrant · Ollama · BGE embeddings · WhisperKit |
+| iOS | Swift · SwiftUI · UIKit · Core Data · AVFoundation |
+| Data & research | pandas · NumPy · scikit-learn · statsmodels |
+| Storage & development | PostgreSQL · Redis · SQLite · Docker · Git · pytest |
 
-👨‍💻 Building backend services with **Python** & **Django**
+## More to explore
 
-📱 Crafting iOS apps with **Swift** & **UIKit**
+- **iOS practice:** [MovieQuiz](https://github.com/artemleonich/MovieQuiz-ios) and [Counter](https://github.com/artemleonich/Counter).
+- **Automation:** [Homework Bot](https://github.com/artemleonich/homework_bot) tracks Yandex Practicum review updates in Telegram.
+- **Python foundations:** [fundamentals](https://github.com/artemleonich/backend_test_homework) and [OOP](https://github.com/artemleonich/hw_python_oop).
+- **Django learning path:** [community](https://github.com/artemleonich/hw02_community) → [forms](https://github.com/artemleonich/hw03_forms) → [tests](https://github.com/artemleonich/hw04_tests) → [final project](https://github.com/artemleonich/hw05_final).
+- **App support:** [Lux](https://github.com/artemleonich/lux-support) contains public support and privacy documentation.
 
-📊 Passionate about **fintech**, market data & automation
+## По-русски
 
-🤖 Love building **Telegram bots** & web scrapers
+Я Артём. Создаю бэкенд на **Python**, приложения для **iOS** и инструменты для работы с документами и данными. Здесь собраны проекты с локальными AI-моделями, автоматизацией и исследованиями финансовых рынков, а также учебные работы по Python, Django и Swift.
 
-🎉 Yandex Practicum student (Backend Python & iOS)
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-**Backend & Frameworks**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-**iOS Development**
-
-![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Moex**](https://github.com/artemleonich/Moex) | Moscow Exchange market data tools | Python |
-| [**Parser-prices**](https://github.com/artemleonich/Parser-prices) | Price monitoring & parsing service | Python |
-| [**Moex-key-rate**](https://github.com/artemleonich/Moex-key-rate) | Key rate tracking from MOEX | Python |
-| [**Recorder**](https://github.com/artemleonich/Recorder) | iOS audio recorder app | Swift |
-| [**yatube_project**](https://github.com/artemleonich/yatube_project) | Blog platform & social network | Python, Django |
-| [**homework_bot**](https://github.com/artemleonich/homework_bot) | Telegram bot for API integrations | Python |
-| [**MovieQuiz-ios**](https://github.com/artemleonich/MovieQuiz-ios) | Movie trivia quiz iOS app | Swift |
-| [**Counter**](https://github.com/artemleonich/Counter) | Simple counter iOS app | Swift |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=artemleonich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=artemleonich&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=artemleonich&theme=tokyonight&hide_border=true)
-
-</div>
+Начать знакомство можно с **[DocRAG](https://github.com/artemleonich/docrag)** — поиска и генерации документов, **[Recorder](https://github.com/artemleonich/Recorder)** — голосовых заметок с транскрипцией, или **[PriceRadar](https://github.com/artemleonich/Parser-prices)** — MVP мониторинга цен. Исследования **[MOEX](https://github.com/artemleonich/Moex)** и **[ключевой ставки](https://github.com/artemleonich/Moex-key-rate)** содержат модели и бэктесты; их результаты требуют проверки с учётом ограничений данных.
 
 ---
 
-<div align="center">
+Open to collaboration on Python, iOS, document tools, and data projects.
 
-### 🤝 Let's Connect
-
-*Open to collaboration on Python backend, fintech tools & iOS projects*
-
-⭐ **If you find my projects useful, consider giving them a star!**
-
-</div>
-
----
-
-## 🇷🇺 Обо мне
-
-👨‍💻 Разрабатываю бэкенд-сервисы на **Python** и **Django**
-
-📱 Создаю iOS-приложения на **Swift** и **UIKit**
-
-📊 Увлечён **финтехом**, рыночными данными и автоматизацией
-
-🤖 Люблю создавать **Telegram-боты** и веб-скрейперы
-
-🎉 Ученик Яндекс Практикума (Бэкенд Python и iOS)
-
----
-
-### 📌 Избранные проекты
-
-| Проект | Описание | Технологии |
-|---------|-------------|------|
-| [**Moex**](https://github.com/artemleonich/Moex) | Инструменты для работы с данными Московской биржи | Python |
-| [**Parser-prices**](https://github.com/artemleonich/Parser-prices) | Мониторинг и парсинг цен | Python |
-| [**Moex-key-rate**](https://github.com/artemleonich/Moex-key-rate) | Отслеживание ключевой ставки МОСБиржи | Python |
-| [**Recorder**](https://github.com/artemleonich/Recorder) | iOS-приложение для записи аудио | Swift |
-| [**yatube_project**](https://github.com/artemleonich/yatube_project) | Блог-платформа и социальная сеть | Python, Django |
-| [**homework_bot**](https://github.com/artemleonich/homework_bot) | Telegram-бот для интеграции с API | Python |
-| [**MovieQuiz-ios**](https://github.com/artemleonich/MovieQuiz-ios) | Викторина по фильмам для iOS | Swift |
-| [**Counter**](https://github.com/artemleonich/Counter) | Простой счётчик для iOS | Swift |
-
----
-
-<div align="center">
-
-### 🤝 Давайте сотрудничать
-
-*Открыт к сотрудничеству в области Python-бэкенда, финтех-инструментов и iOS-проектов*
-
-⭐ **Если мои проекты показались вам полезными, поставьте звёздочку!**
-
-</div>
-
-
----
-
-<div align="center">
-
-### ☕ Support Me
-
-<a href="https://www.buymeacoffee.com/artemleonich" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-</div>
+[Browse all repositories](https://github.com/artemleonich?tab=repositories) · [Support my work ☕](https://www.buymeacoffee.com/artemleonich)
