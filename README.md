@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/name.svg" width="340" alt="Artem Leonov" /><br />
+  <img src="assets/identity.svg" width="470" alt="Artem Leonov" /><br />
   <img src="assets/focus.svg" width="460" alt="Python backends · Swift apps · local AI and automation" />
 </p>
 
@@ -7,10 +7,22 @@ I'm Artem. I build Python backends and iOS apps, with projects in document AI, a
 
 ## Selected projects
 
-- **[DocRAG](https://github.com/artemleonich/docrag)** — local PDF answers with source citations and Word / PowerPoint drafts.
-- **[Recorder](https://github.com/artemleonich/Recorder)** — iOS voice notes with on-device WhisperKit transcription and text search.
-- **[PriceRadar](https://github.com/artemleonich/Parser-prices)** — marketplace price-monitoring MVP with Telegram alerts and price history.
-- **[MOEX](https://github.com/artemleonich/Moex)** — IslandForest research with walk-forward and portfolio backtests.
+<p>
+  <a href="https://github.com/artemleonich/docrag"><img src="assets/projects/docrag.svg" width="28" height="28" alt="DocRAG" /></a>&nbsp;
+  <strong><a href="https://github.com/artemleonich/docrag">DocRAG</a></strong> — local PDF answers with source citations and Word / PowerPoint drafts. <code>FastAPI</code>
+</p>
+<p>
+  <a href="https://github.com/artemleonich/Recorder"><img src="assets/projects/recorder.svg" width="28" height="28" alt="Recorder" /></a>&nbsp;
+  <strong><a href="https://github.com/artemleonich/Recorder">Recorder</a></strong> — iOS voice notes with on-device transcription and text search. <code>WhisperKit</code>
+</p>
+<p>
+  <a href="https://github.com/artemleonich/Parser-prices"><img src="assets/projects/priceradar.svg" width="28" height="28" alt="PriceRadar" /></a>&nbsp;
+  <strong><a href="https://github.com/artemleonich/Parser-prices">PriceRadar</a></strong> — marketplace price monitoring, Telegram alerts and price history. <code>MVP</code>
+</p>
+<p>
+  <a href="https://github.com/artemleonich/Moex"><img src="assets/projects/moex.svg" width="28" height="28" alt="MOEX research" /></a>&nbsp;
+  <strong><a href="https://github.com/artemleonich/Moex">MOEX</a></strong> — IslandForest, walk-forward evaluation and portfolio backtests. <code>Research</code>
+</p>
 
 ### Tools in my projects
 
